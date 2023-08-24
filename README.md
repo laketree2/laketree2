@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Welcome everyone 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=laketree2)](https://solved.ac/laektree2/)
 
-## 🌱 Skill
+## 🌱 Skill - Studing
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
 <!--     <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> -->
